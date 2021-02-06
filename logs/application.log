@@ -131,3 +131,69 @@ TypeError: object of type 'NoneType' has no len()
 02/06/2021 05:01:10 PM  * Restarting with stat
 02/06/2021 05:01:10 PM  * Debugger is active!
 02/06/2021 05:01:10 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:08:59 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:08:59 PM  * Restarting with stat
+02/06/2021 05:08:59 PM  * Debugger is active!
+02/06/2021 05:08:59 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:09:14 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:09:14 PM  * Restarting with stat
+02/06/2021 05:09:14 PM  * Debugger is active!
+02/06/2021 05:09:14 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:09:22 PM 127.0.0.1 - - [06/Feb/2021 17:09:22] "[37mPOST /sign_in HTTP/1.1[0m" 200 -
+02/06/2021 05:09:39 PM 127.0.0.1 - - [06/Feb/2021 17:09:39] "[37mPOST /sign_in HTTP/1.1[0m" 200 -
+02/06/2021 05:10:05 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:10:05 PM  * Restarting with stat
+02/06/2021 05:10:06 PM  * Debugger is active!
+02/06/2021 05:10:06 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:10:51 PM user - test@gmail.com has been added successfully
+02/06/2021 05:10:51 PM 127.0.0.1 - - [06/Feb/2021 17:10:51] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:11:08 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:11:08 PM  * Restarting with stat
+02/06/2021 05:11:09 PM  * Debugger is active!
+02/06/2021 05:11:09 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:11:20 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:11:20 PM  * Restarting with stat
+02/06/2021 05:11:20 PM  * Debugger is active!
+02/06/2021 05:11:20 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:12:48 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:12:48 PM  * Restarting with stat
+02/06/2021 05:12:48 PM  * Debugger is active!
+02/06/2021 05:12:48 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:12:54 PM 127.0.0.1 - - [06/Feb/2021 17:12:54] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:12:56 PM 127.0.0.1 - - [06/Feb/2021 17:12:56] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:16:34 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:16:34 PM  * Restarting with stat
+02/06/2021 05:16:34 PM  * Debugger is active!
+02/06/2021 05:16:34 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:16:43 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:16:44 PM  * Restarting with stat
+02/06/2021 05:16:44 PM  * Debugger is active!
+02/06/2021 05:16:44 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:16:48 PM 127.0.0.1 - - [06/Feb/2021 17:16:48] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:16:57 PM 127.0.0.1 - - [06/Feb/2021 17:16:57] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:16:58 PM 127.0.0.1 - - [06/Feb/2021 17:16:58] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:16:59 PM 127.0.0.1 - - [06/Feb/2021 17:16:59] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:17:24 PM 127.0.0.1 - - [06/Feb/2021 17:17:24] "[35m[1mPOST /sign_up HTTP/1.1[0m" 500 -
+02/06/2021 05:18:09 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:18:09 PM  * Restarting with stat
+02/06/2021 05:18:09 PM  * Debugger is active!
+02/06/2021 05:18:09 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:18:17 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:18:17 PM  * Restarting with stat
+02/06/2021 05:18:18 PM  * Debugger is active!
+02/06/2021 05:18:18 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:18:23 PM  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+02/06/2021 05:18:23 PM  * Restarting with stat
+02/06/2021 05:18:23 PM  * Debugger is active!
+02/06/2021 05:18:23 PM  * Debugger PIN: 990-918-773
+02/06/2021 05:18:29 PM 127.0.0.1 - - [06/Feb/2021 17:18:29] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:36 PM 127.0.0.1 - - [06/Feb/2021 17:18:36] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:38 PM 127.0.0.1 - - [06/Feb/2021 17:18:38] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:39 PM 127.0.0.1 - - [06/Feb/2021 17:18:39] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:44 PM 127.0.0.1 - - [06/Feb/2021 17:18:44] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:46 PM 127.0.0.1 - - [06/Feb/2021 17:18:46] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:18:47 PM 127.0.0.1 - - [06/Feb/2021 17:18:47] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 05:20:49 PM  * Detected change in '/home/koushik/Documents/projects/simple-flask-api/app/routes.py', reloading
+02/06/2021 05:20:50 PM  * Restarting with stat
+02/06/2021 05:20:50 PM  * Debugger is active!
+02/06/2021 05:20:50 PM  * Debugger PIN: 990-918-773

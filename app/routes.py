@@ -37,8 +37,21 @@ def sign_up():
         if email == "" or password == "":
             return jsonify({"status_code": 200, "message":"email or password cannot be empty!"})
         else:
+            with open(os.path.join(CREDENTIAL_PATH, 'credential.txt'), 'r') as f:
+                saved_credentials = [item.split(",") for item in f.readlines()]
+
+            # validate if the user already exists
+            try:
+                for cred in saved_credentials:
+                    # try to match email
+                    if cred[0] == email:
+                        return jsonify({"message":"user exists"})
+            except:
+                pass
+
             with open(os.path.join(CREDENTIAL_PATH, 'credential.txt'), 'a') as f:
                 f.write(f"{email},{password}\n")
+                # logging.info(f"user - {email} has been added successfully")
             return jsonify({"message":"account has been created successfully"})
     except:
         pass
@@ -64,8 +77,10 @@ def sign_in():
                     pswd = cred[1].strip("\n")
                     if pswd == password:
                         return jsonify({"validation":"done"})
+                        # logging.info(f"user - {email} has been verified successfully")
                     else:
                         return jsonify({"validation":"nope"})
+                        # logging.info(f"authentication failed for user - {email}")
             
             return jsonify({"message":"user data not found!"})
     except:

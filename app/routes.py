@@ -15,7 +15,8 @@ def welcome():
 @app.route("/get_info", methods=["POST"])
 def get_info():
     try:
-        name = request.args.get("name")
+        incoming_data = request.get_json()
+        name = incoming_data["name"]
         if name == "":
             return jsonify({"status_code": 100, "message":"name string can't be empty!"})
     except:

@@ -13,7 +13,7 @@ def welcome():
 
 
 @app.route("/get_info", methods=["POST"])
-def get_info(name):
+def get_info():
     try:
         name = request.args.get("name")
         if name == "":

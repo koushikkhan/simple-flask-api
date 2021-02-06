@@ -5,6 +5,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 # DATA_PATH = os.path.join(ROOT, 'data')
 # MODEL_PATH = os.path.join(ROOT, 'model')
 LOG_PATH = os.path.join(ROOT, 'logs')
+CREDENTIAL_PATH = os.path.join(ROOT, 'credential')
 # MODEL_FILE_NAME = "classifier.pickle"
 
 # setup log file time stamp format

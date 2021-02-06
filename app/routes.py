@@ -10,3 +10,15 @@ from config import logging
 def welcome():
     logging.info("successfully connected to backend")
     return "Hello, replying from the backend!"
+
+
+@app.route("/get_info", methods=["POST"])
+def get_info(name):
+    try:
+        name = request.args.get("name")
+        if name == "":
+            return jsonify({"status_code": 100, "message":"name string can't be empty!"})
+    except:
+        pass
+
+    return jsonify({"name":name, "age":"28", "n_chars":str(len(name))})

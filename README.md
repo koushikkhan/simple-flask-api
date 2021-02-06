@@ -1,2 +1,3 @@
-# simple-flask-api
-a simple flask api to test UI-backend connectivity
+# Simple flask REST api to check UI configuration with the backend
+
+This is a simple flask REST api developed to check connection in between the UI and the backend.

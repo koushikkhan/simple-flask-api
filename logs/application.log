@@ -1,0 +1,7 @@
+02/06/2021 11:32:19 AM  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+02/06/2021 11:32:41 AM successfully connected to backend
+02/06/2021 11:32:41 AM 127.0.0.1 - - [06/Feb/2021 11:32:41] "[37mGET /home HTTP/1.1[0m" 200 -
+02/06/2021 11:32:41 AM 127.0.0.1 - - [06/Feb/2021 11:32:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+02/06/2021 11:35:16 AM successfully connected to backend
+02/06/2021 11:35:16 AM 127.0.0.1 - - [06/Feb/2021 11:35:16] "[37mGET /home HTTP/1.1[0m" 200 -
+02/06/2021 11:35:16 AM 127.0.0.1 - - [06/Feb/2021 11:35:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

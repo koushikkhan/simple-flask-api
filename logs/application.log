@@ -197,3 +197,10 @@ TypeError: object of type 'NoneType' has no len()
 02/06/2021 05:20:50 PM  * Restarting with stat
 02/06/2021 05:20:50 PM  * Debugger is active!
 02/06/2021 05:20:50 PM  * Debugger PIN: 990-918-773
+02/06/2021 11:54:39 PM  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+02/06/2021 11:54:39 PM  * Restarting with stat
+02/06/2021 11:54:39 PM  * Debugger is active!
+02/06/2021 11:54:39 PM  * Debugger PIN: 885-221-802
+02/06/2021 11:56:24 PM 127.0.0.1 - - [06/Feb/2021 23:56:24] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/06/2021 11:56:49 PM 127.0.0.1 - - [06/Feb/2021 23:56:49] "[37mPOST /sign_up HTTP/1.1[0m" 200 -
+02/07/2021 12:06:45 AM 127.0.0.1 - - [07/Feb/2021 00:06:45] "[37mPOST /sign_in HTTP/1.1[0m" 200 -
